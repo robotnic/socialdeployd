@@ -8,7 +8,6 @@ var port = process.env.PORT || 3000;
 
 var url = require('url');
 var db_url = url.parse( process.env.MONGOHQ_URL || "mongodb://:@localhost:27017/tester");
-//var db_url=url.parse("mongodb://fhmeta:fhmeta@oceanic.mongohq.com:10031/fhmeta");
 
 var options = {
     port: port,
