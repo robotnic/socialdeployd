@@ -1,0 +1,13 @@
+{
+  "name": "herokudeployd",
+  "version": "0.0.0",
+  "description": "deployd for heroku",
+  "main": "web.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "url": "*",
+    "deployd": "*",
+    "dpd-passport": "*"
+  }
+}

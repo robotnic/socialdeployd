@@ -1,0 +1,18 @@
+{
+	"type": "AuthResource",
+	"SALT_LEN": "",
+	"baseURL": "http://fhmeta.herokuapp.com/",
+	"allowedRedirectURLs": "^http://.*$",
+	"allowLocal": true,
+	"allowTwitter": true,
+	"allowFacebook": true,
+	"allowGitHub": false,
+	"twitterConsumerKey": "uwlUnFaI4jUDPRDRYKSsA",
+	"twitterConsumerSecret": "W1aNgI3hWoYpB3Ah19t6FedlwJ64iazEhgSKztm3Q",
+	"facebookAppId": "688290887861432",
+	"facebookAppSecret": "b6119ce6798a61605d4ddbc018814134",
+	"facebookScope": "['read_stream']",
+	"githubClientId": "",
+	"githubClientSecret": "",
+	"githubScope": ""
+}

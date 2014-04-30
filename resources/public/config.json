@@ -1,0 +1,37 @@
+{
+	"type": "Collection",
+	"properties": {
+		"from": {
+			"name": "from",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "from",
+			"order": 0
+		},
+		"createdate": {
+			"name": "createdate",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "createdate",
+			"order": 1
+		},
+		"properties": {
+			"name": "properties",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "properties",
+			"order": 2
+		},
+		"modifydate": {
+			"name": "modifydate",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "modifydate",
+			"order": 3
+		}
+	}
+}
