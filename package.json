@@ -7,7 +7,7 @@
   "license": "ISC",
   "dependencies": {
     "url": "*",
-    "deployd": "*",
+    "deployd":"robotnic/deployd",
     "dpd-passport": "*"
   }
 }
